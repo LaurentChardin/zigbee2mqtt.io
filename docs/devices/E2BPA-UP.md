@@ -1,6 +1,6 @@
 ---
-title: "YOKIS TLC8-UP control via MQTT"
-description: "Integrate your YOKIS TLC8-UP via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendor's bridge or gateway."
+title: "YOKIS E2BPA-UP control via MQTT"
+description: "Integrate your YOKIS E2BPA-UP via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendor's bridge or gateway."
 addedAt: 2024-12-29T16:26:41
 pageClass: device-page
 ---
@@ -11,21 +11,19 @@ pageClass: device-page
 <!-- Do not use h1 or h2 heading within "## Notes"-Section. -->
 <!-- !!!! -->
 
-# YOKIS TLC8-UP
+# YOKIS E2BPA-UP
 
 |     |     |
 |-----|-----|
-| Model | TLC8-UP  |
+| Model | E2BPA-UP  |
 | Vendor  | [YOKIS](/supported-devices/#v=YOKIS)  |
-| Description | Keyring Design series 8-button remote control |
+| Description | Flush-mounted independent 2-channel transmitter (main powered) |
 | Exposes | identify, action, linkquality |
-| Picture | ![YOKIS TLC8-UP](https://www.zigbee2mqtt.io/images/devices/TLC8-UP.png) |
+| Picture | ![YOKIS E2BPA-UP](https://www.zigbee2mqtt.io/images/devices/E2BPA-UP.png) |
 
 
 <!-- Notes BEGIN: You can edit here. Add "## Notes" headline if not already present. -->
-## Notes
-
-- [CSA product page](https://csa-iot.org/csa_product/tlc8-up/)
+- [CSA product page](https://csa-iot.org/csa_product/e2bpa-up/)
 <!-- Notes END: Do not edit below this line -->
 
 
